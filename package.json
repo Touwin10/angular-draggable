@@ -10,6 +10,10 @@
     "e2e": "ng e2e"
   },
   "private": true,
+  "author": {
+    "name": "Touwin10",
+    "url": "https://touwin10.com/"
+  },
   "dependencies": {
     "@angular/animations": "~7.2.0",
     "@angular/common": "~7.2.0",
